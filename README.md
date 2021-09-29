@@ -3,7 +3,7 @@
 Sandypandy
 Vanilla HTML website about me
 
-> # this i a quote 
+> # this i a quote
 
 ## heading 2
 
